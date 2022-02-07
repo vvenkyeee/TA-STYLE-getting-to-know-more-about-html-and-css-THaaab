@@ -1,0 +1,14 @@
+body {
+    background-color: white;
+    color: black;
+}
+.Venky {
+    border: 1px solid green;
+    padding: 1px;
+    background-color: green;
+    color: black;
+    line-height: 40px;
+}
+.dragon {
+    color: black;
+}
